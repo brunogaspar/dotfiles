@@ -5,7 +5,7 @@ pecl install imagick
 pecl install mongodb
 pecl install redis
 pecl install xdebug
-pecl install yaml
+echo $(brew --prefix libyaml) | pecl install yaml
 
 # Install Global Composer Packages
 composer global require laravel/valet

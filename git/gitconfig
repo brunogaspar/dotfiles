@@ -1,5 +1,9 @@
 [user]
-        name = Bruno Gaspar
-        email = brunofgaspar1@gmail.com
+	name = Bruno Gaspar
+	email = brunofgaspar1@gmail.com
 [core]
-        excludesfile = ~/.gitignore
+    excludesFile = ~/.dotfiles/git/gitignore
+[commit]
+	gpgsign = false
+[gpg]
+	program = /opt/homebrew/bin/gpg
