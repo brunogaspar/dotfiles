@@ -5,4 +5,4 @@
 4. Clone the repository with
    `git clone git@github.com:brunogaspar/dotfiles ~/.dotfiles`
 5. Run the install script 
-    `cd ~/.dotfiles && ./install.sh`
+    `cd ~/.dotfiles && sh install.sh`
