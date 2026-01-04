@@ -11,20 +11,22 @@ brew "svn"
 # Other Tools
 #brew "imagemagick"
 brew "libyaml"
-brew "pkg-config"
+#brew "pkg-config"
 
 # Development
 #brew "composer"
-brew "node"
-brew "pnpm"
+#brew "node"
+#brew "pnpm"
 
 # Apps
+cask "1password"
 cask "adobe-creative-cloud"
 cask "bruno"
 cask "discord"
 cask "docker"
 cask "dropbox"
 cask "jetbrains-toolbox"
+cask "linear-linear"
 cask "notion-calendar"
 cask "phpstorm"
 cask "postman"
